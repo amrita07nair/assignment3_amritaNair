@@ -1,0 +1,1 @@
+Hello! With the changes I made for the assignment. You may have to change out the trainset and testset root locations. I had to manually download CIFAR10 due to errors for some reason. You will have to manually download and change the root locations or change download to True in those spots.
